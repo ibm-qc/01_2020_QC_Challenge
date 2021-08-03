@@ -30,3 +30,5 @@ If you are experiencing problems when validating the exercises, try the followin
 ## Where is the conversation happening?
 
 There is a channel (`#ibm-quantum-challenge`) dedicated to the Challenge in [Qiskit Slack](http://qisk.it/slack). Join the conversation!
+
+##
